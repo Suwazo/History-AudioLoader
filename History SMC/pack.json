@@ -1,0 +1,9 @@
+{
+  "name": "History",
+  "description": "Music from the manual viewer in Sonic Mega Collection.",
+  "author": "Suwazo",
+  "version": "v1.0",
+  "manifest_version": 1,
+  "music": true,
+  "ignore": []
+}
